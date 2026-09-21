@@ -99,4 +99,4 @@ El conjunto de datos es sintético y de uso académico: los nombres, correos, te
 
 **Simón Bedoya Montiel** · Data Science, Soy Henry
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-bedoya-05bb57398/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-bedoya-montiel/)
