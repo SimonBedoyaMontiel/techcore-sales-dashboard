@@ -61,7 +61,7 @@ El análisis completo, con seis recomendaciones, está en [`docs/conclusiones_y_
 - **Modelo relacional en Python:**
 
   ```bash
-  git clone https://github.com/simonbm17/techcore-sales-dashboard.git
+  git clone https://github.com/SimonBedoyaMontiel/techcore-sales-dashboard.git
   cd techcore-sales-dashboard
   pip install -r requirements.txt
   jupyter notebook notebooks/02_modelo_relacional.ipynb
